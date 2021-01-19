@@ -17,3 +17,14 @@ git add .
 git commit -m 'first'
 git push -u origin main
 ```
+
+## venv create
+create
+
+```
+-m venv venv
+```
+activate
+```
+venv\script\activate
+```
